@@ -964,7 +964,7 @@ async def _(event):
 
 ※ CHANNEL -  PICTHON    ※
 
-※ VERSION - 𝟭.𝟬 - REVISED   ※
+※ VERSION - 1.0 - REVISED   ※
 
 ※ DEVELOPER - BLACK.PIC  ※
 
@@ -1334,7 +1334,7 @@ async def _(event):
 
 ※ CHANNEL -  PICTHON    ※
 
-※ VERSION - 𝟭.𝟬 - REVISED   ※
+※ VERSION - 1.0 - REVISED   ※
 
 ※ DEVELOPER - BLACK.PIC  ※
 
@@ -1701,7 +1701,7 @@ async def _(event):
 
 ※ CHANNEL -  PICTHON    ※
 
-※ VERSION - 𝟭.𝟬 - REVISED   ※
+※ VERSION - 1.0 - REVISED   ※
 
 ※ DEVELOPER - BLACK.PIC  ※
 
@@ -2064,15 +2064,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘??𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython4.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -2431,15 +2431,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ CHANNEL - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython5.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -2799,15 +2799,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython6.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -3169,15 +3169,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython7.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -3536,15 +3536,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython8.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -3903,15 +3903,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘??𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython9.on(events.NewMessage(outgoing=False, pattern='/point1'))
@@ -4270,15 +4270,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-╭──⌯𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗬𝗧𝗛𝗢𝗡⌯──╮
+╭──⌯SOURCE PICTHON⌯──╮
 
-※ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 -  𝗦𝗔𝗬𝗧𝗛𝗢𝗡𝗛    ※
+※ CHANNEL -  PICTHON    ※
 
-※ 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 - 𝟭.𝟬 - 𝗥𝗘𝗩𝗜𝗦𝗘𝗗   ※
+※ VERSION - 1.0 - REVISED   ※
 
-※ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 - 𝗛𝗨𝗦𝗔𝗠.𝗙𝗔  ※
+※ DEVELOPER - BLACK.PIC  ※
 
-╰───⌯𝗦𝗬𝗧𝗛𝗢𝗡 𝗣𝗢𝗜𝗡𝗧⌯───╯
+╰───⌯PICTHON POINT⌯───╯
 ''')
 
 @sython10.on(events.NewMessage(outgoing=False, pattern='/point1'))
